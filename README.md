@@ -29,4 +29,4 @@ Decentralized Identity Management: Take charge of your digital identity and prot
 
 Web3T is built on the cutting-edge web3 technology stack, leveraging the power of blockchain and decentralized networks to deliver a robust, secure, and reliable communication platform.
 
-Join us on the journey to redefine how crypto wallet communication is conducted. Embrace the future of decentralized and user-centric communication with Web3T. Experience the power of secure text, voice, and video integration, access control list file sharing, and decentralized identity management—all within your fingertips.
+Join us on the journey to redefine how crypto wallet communication is conducted. Embrace the future of decentralized and user-centric communication with Web3T. Experience the power of secure text, voice, and video integration, access control list file sharing, and decentralized identity management UIUX
