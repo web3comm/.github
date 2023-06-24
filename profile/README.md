@@ -1,7 +1,7 @@
 ## links
 Useful links for wallet to wallet communication
 
-https://docs.agoric.com/guides/js-programming/hardened-js
+https://docs.agoric.com/guides/js-programming/hardened-js <br />
 https://docs.metamask.io/snaps/reference/rpc-api/#snap-managestate
 https://github.com/IPFSdapps/IPFSmetasnap
 https://docs.ens.domains/ens-migration-february-2020/technical-description
