@@ -2,19 +2,20 @@
 Useful links for wallet to wallet communication
 
 https://docs.agoric.com/guides/js-programming/hardened-js <br />
-https://docs.metamask.io/snaps/reference/rpc-api/#snap-managestate
-https://github.com/IPFSdapps/IPFSmetasnap
-https://docs.ens.domains/ens-migration-february-2020/technical-description
-https://docs.ens.domains/dns-registrar-guide
-https://github.com/idmanagement/subdomain-registrar
+https://docs.metamask.io/snaps/reference/rpc-api/#snap-managestate <br />
+https://github.com/IPFSdapps/IPFSmetasnap <br />
+https://docs.ens.domains/ens-migration-february-2020/technical-description <br />
+https://docs.ens.domains/dns-registrar-guide <br />
+https://github.com/idmanagement/subdomain-registrar <br />
 
 
-https://eips.ethereum.org/EIPS/eip-3668
-https://ethglobal.com/guides/introduction-to-metamask-snaps-54ej1#getting-started
-https://ens.domains/ 
+https://eips.ethereum.org/EIPS/eip-3668 <br />
+https://ethglobal.com/guides/introduction-to-metamask-snaps-54ej1#getting-started <br />
+https://ens.domains/ <br />
 
-https://xmtp.org/docs/developer-quickstart
-https://xmtp.org/docs/introduction#xmtp-sdks-and-example-apps
+https://xmtp.org/docs/developer-quickstart <br />
+https://xmtp.org/docs/introduction#xmtp-sdks-and-example-apps <br />
+https://xmtp.org/docs/introduction#xmtp-sdks-and-example-apps <br />
 https://frame.sh/
 
 <!--
