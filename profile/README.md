@@ -1,19 +1,26 @@
+Introducing Web3T – the Revolutionary Crypto Wallet Communication platform
+
+Paving the way forward for seamless and secure communication experiences in the world of blockchain technology. Our aim is to bring about a new era where limited communication options become a thing of the past. With Web3T you can effortlessly connect with like minded individuals in the crypto community through text, voice, and video integration. 
+
+All of this happens within the cohesive security of your crypto wallet. 
+One standout feature at Web3T is that it allows for access control list file sharing – secure and private document sharing between trusted networks. The confidentiality of sensitive information is maintained by ensuring it remains strictly within your circle of trust. 
+
+With decentralized identity management playing a central role at Web3T. We are confident that you will regain ownership and autonomy over your digital presence. Having control over who has access to your personal information empowers you with unprecedented levels of privacy and security. 
+
+Join the Future of Communication with Web3T: Private communication between digital identities
+
 Introducing Web3T: User-to-User Crypto Wallet Communication
 Unlock the Future of Secure and Seamless Communication within the Crypto World
 
-Welcome to Web3T, the revolutionary platform that is redefining user-to-user crypto wallet communication. We believe in harnessing the power of blockchain technology to create a new era of secure and immersive communication experiences.
-
 Gone are the days of limited communication options. With Web3T, you can seamlessly connect with others in the crypto community using text, voice, and video integration. Experience the freedom to communicate in the way that suits you best, all within the trusted confines of your crypto wallet.
-
-One of the standout features of Web3T is its access control list file sharing capability. Safely and privately share documents, images, and files with your trusted network. Maintain the confidentiality of sensitive information, ensuring that it remains within your circle of trust.
 
 Central to the Web3T experience is decentralized identity management. We believe that your digital presence should be yours to control. With Web3T, you regain ownership and autonomy over your identity, empowering you with privacy and security like never before.
 
 Key Features of Web3T:
 
 TEXT - Encrypted wallet-to-wallet text communication
-TALK - Encrypted wallet-to-wallet voice communication
-TELE - Encrypted wallet-to-wallet video communication
+TALK - Encrypted wallet-to-wallet voice communication (beta)
+TELE - Encrypted wallet-to-wallet video communication (alpha)
 
 Join the Future of Communication with Web3T:
 Private communication between digital identities
